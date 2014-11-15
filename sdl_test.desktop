@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=sdl_test
+Exec=sdl_test
+Name=sdl_test
+# translation example:
+# your app name in German locale (de)
+Name[de]=sdl_test
+
